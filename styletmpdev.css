@@ -1,4 +1,5 @@
 /* styletmpdev - Temporary Style for Development */
-/* Commonplace-inspired: minimal, readable, light on colors */
+/* GitHub Dark Mode theme: minimal, readable */
 
-body{background:#f6f8fa;color:#24292e;font-family:monospace;margin:0;padding:20px;line-height:1.6}table{width:100%;border-collapse:collapse;margin:20px 0}th{background:#f3f3f3;color:#24292e;padding:12px;text-align:left;border-bottom:2px solid #e1e4e8;font-weight:normal}td{padding:12px;border-bottom:1px solid #e1e4e8}a{color:#0366d6;text-decoration:none}a:hover{text-decoration:underline}h1,h2,h3{color:#24292e;font-weight:normal;margin-top:24px}input{padding:10px;border:1px solid #e1e4e8;background:#fff;color:#24292e;font-family:monospace;margin:5px}button{padding:10px 16px;background:#f3f3f3;border:1px solid #d1d5da;color:#24292e;font-family:monospace;cursor:pointer}
+body{background:#0d1117;color:#c9d1d9;font-family:monospace;margin:0;padding:20px;line-height:1.6}table{width:100%;border-collapse:collapse;margin:20px 0}th{background:#161b22;color:#c9d1d9;padding:12px;text-align:left;border-bottom:1px solid #30363d;font-weight:normal}td{padding:12px;border-bottom:1px solid #30363d}a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}h1,h2,h3{color:#c9d1d9;font-weight:normal;margin-top:24px}input,textarea,select{background:#0d1117;color:#c9d1d9;border:1px solid #30363d;padding:10px;font-family:monospace;margin:5px}button{padding:10px 16px;background:#21262d;border:1px solid #30363d;color:#c9d1d9;font-family:monospace;cursor:pointer}button:hover{background:#30363d}
+
