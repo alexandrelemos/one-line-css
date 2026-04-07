@@ -1,5 +1,5 @@
 /* styletmpdev - Temporary Style for Development */
-/* GitHub Dark Mode theme: minimal, readable */
+/* Color scheme: #222830 bg, #d2d7df text, #406fa3 links, #3e444d borders */
 
-body{background:#0d1117;color:#c9d1d9;font-family:monospace;margin:0;padding:20px;line-height:1.6}table{width:100%;border-collapse:collapse;margin:20px 0}th{background:#161b22;color:#c9d1d9;padding:12px;text-align:left;border-bottom:1px solid #30363d;font-weight:normal}td{padding:12px;border-bottom:1px solid #30363d}a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}h1,h2,h3{color:#c9d1d9;font-weight:normal;margin-top:24px}input,textarea,select{background:#0d1117;color:#c9d1d9;border:1px solid #30363d;padding:10px;font-family:monospace;margin:5px}button{padding:10px 16px;background:#21262d;border:1px solid #30363d;color:#c9d1d9;font-family:monospace;cursor:pointer}button:hover{background:#30363d}
+body{background:#222830;color:#d2d7df;font-family:monospace;padding:20px}table{width:100%;border-collapse:collapse;margin:20px 0}th,h4{color:#d2d7df}th{background:#222830;padding:12px}td,th{border-bottom:1px solid #3e444d}td{padding:12px}a{color:#406fa3}input,textarea,select,button{background:#2a3139;color:#d2d7df;border:1px solid #3e444d;padding:8px;font-family:monospace}button:hover{background:#3e444d}
 
