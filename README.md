@@ -2,6 +2,8 @@
 
 A minimal, eye-friendly CSS framework for development. GitHub-flavored dark theme.
 
+Perfect for practicing frontend skills and rapid prototyping without the overhead of heavy frameworks.
+
 ## Features
 
 - Dark, readable color scheme (GitHub-flavored)
@@ -24,7 +26,7 @@ Or include via file in your dev folder.
 
 ## Why?
 
-Perfect for quick prototyping, admin panels, and learning projects. No setup overhead, no framework bloat, no CSS conflicts.
+I use it mainly for practicing my junior-ninja skills in frontend development. Perfect for quick prototyping, admin panels, and learning projects. No setup overhead, no framework bloat, no CSS conflicts.
 
 ## Design Principles
 
