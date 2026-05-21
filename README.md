@@ -1,4 +1,4 @@
-# styletmpdev
+# One Line CSS
 
 A minimal, eye-friendly CSS framework for development. GitHub-flavored dark theme.
 
